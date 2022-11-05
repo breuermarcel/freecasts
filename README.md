@@ -1,4 +1,4 @@
-# Project Scaffolding
+# Freecasts
 
 ---
 
@@ -6,7 +6,7 @@
 
 Clone repository into your packages' folder:
 ```bash
-git clone https://github.com/breuermarcel/project-scaffolding.git
+git clone https://github.com/breuermarcel/freecasts.git
 ```
 
 Define your package repositories: dev
@@ -24,7 +24,7 @@ Define your package repositories: dev
 
 Require package:
 ```bash
-composer require breuermarcel/project-scaffolding
+composer require breuermarcel/freecasts
 ```
 
 Migrate database:
